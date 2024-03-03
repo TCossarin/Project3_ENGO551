@@ -11,4 +11,4 @@ main.html: Contains the UI for the website.
 app.js: Adds the functionality to the map.
 
 The following screenshot shows the website when queried for permits issued in the last two days.
-![Map Visualization](/mnt/data/screenshot.png)
+![Map Visualization](screenshot.png)
